@@ -45,7 +45,7 @@ const Navbar = () => {
     >
       <div className="text-white py-5 flex justify-between items-center">
         {/* Logo */}
-        <div className="text-lg font-semibold cursor-pointer">
+        <div className="text-lg font-semibold scale-150 cursor-pointer">
           <span className="text-[#8245ec]">&lt;</span>
           <span className="text-white">Jigeesha</span>
           <span className="text-[#8245ec]">/</span>
