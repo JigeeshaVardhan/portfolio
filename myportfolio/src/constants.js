@@ -132,7 +132,7 @@ export const projects = [
         "It's an AI-powered Mobile application that supports individuals experiencing depression. It scans the user's face upon entry, detects emotional anomalies, and starts a personalized conversation. Using AI-driven sentiment analysis, it provides empathetic responses, mental health resources, and guidance. The app ensures privacy and security, offering a safe space for users to express themselves and receive AI-driven support.",
       image: "",
       tags: ["Dart", "CSS", "JavaScript", "MySQL", "AI/ML","NLP"],
-      github: "",
+      github: "https://github.com/JigeeshaVardhan/Solace-app.git",
       webapp: "",
     },
     {
@@ -152,8 +152,8 @@ export const projects = [
           "A personal portfolio website showcasing my skills, projects, and experiences. It features a clean and modern design with sections for an introduction, skills, projects, and contact information. The website is responsive and optimized for various devices, providing a seamless user experience. It includes interactive elements like animations and hover effects to enhance engagement. The portfolio highlights my expertise in web development and serves as a platform to demonstrate my work to potential employers and collaborators.",
         image: pfLogo,
         tags: ["React.js", "Tailwind CSS", "JavaScript"],
-        github: "",
-        webapp: "",
+        github: "https://github.com/JigeeshaVardhan/portfolio.git",
+        webapp: "https://jv-portfolio-theta.vercel.app/",
     },
     {
         id: 3,
@@ -162,7 +162,7 @@ export const projects = [
           "A personal blog website is my mini - project where I share my thoughts, experiences, and insights on various topics related to lifestyle, travel, food, and wellness. The blog features a clean and user-friendly design with categories for easy navigation. The website is optimized for SEO to increase visibility and attract a wider audience. It serves as a creative outlet to express my passion for writing and connect with like-minded individuals. ",
         image: lsLogo,
         tags: ["HTML", "CSS", "JavaScript"],
-        github: "",
+        github: "https://github.com/JigeeshaVardhan/LifeStyle.git",
         webapp: "life-style-azure.vercel.app",
     },
     {
