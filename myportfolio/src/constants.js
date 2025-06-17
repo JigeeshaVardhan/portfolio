@@ -17,6 +17,7 @@ import githubLogo from './assets/tech_logo/github.png';
 import vscodeLogo from './assets/tech_logo/vscode.png';
 import oracleLogo from './assets/tech_logo/oracle.png';
 import compassLogo from './assets/tech_logo/mc.png';
+import vercelLogo from './assets/tech_logo/Vercel.svg';
 
 //Education Section Logo's
 import au from './assets/education_logo/au.png';
@@ -66,7 +67,8 @@ export const SkillsInfo = [
         { name: 'GitHub', logo: githubLogo },
         { name: 'VS Code', logo: vscodeLogo },
         { name: 'MongoDB Compass', logo: compassLogo },
-        { name: 'Oracle SQLcl', logo: oracleLogo }, // Placeholder for Figma
+        { name: 'Oracle SQLcl', logo: oracleLogo },
+        { name: 'Vercel', logo: vercelLogo },
         ],
     },
 ];
