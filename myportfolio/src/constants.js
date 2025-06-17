@@ -135,7 +135,7 @@ export const projects = [
       image: "",
       tags: ["Dart", "CSS", "JavaScript", "MySQL", "AI/ML","NLP"],
       github: "https://github.com/JigeeshaVardhan/Solace-app.git",
-      webapp: "",
+      mobileapp: "",
     },
     {
         id: 1,
