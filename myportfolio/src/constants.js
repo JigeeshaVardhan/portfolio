@@ -165,7 +165,7 @@ export const projects = [
         image: lsLogo,
         tags: ["HTML", "CSS", "JavaScript"],
         github: "https://github.com/JigeeshaVardhan/LifeStyle.git",
-        webapp: "life-style-azure.vercel.app",
+        webapp: "https://life-style-azure.vercel.app/",
     },
     {
         id: 4,
